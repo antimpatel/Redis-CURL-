@@ -1,0 +1,9 @@
+
+Compilation:
+  make
+Execution:
+	./SRC
+Dependecies:
+Install redis server
+Install curl
+
